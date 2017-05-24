@@ -1,3 +1,4 @@
 # GD23L_HOTMCU
 
-Libreia GD23L para pantallas  compradas en http://hotmcu.com
+Libreria GD23L para pantallas  compradas en http://hotmcu.com FT81x
+Versión Light para Arduino modelo UNO
